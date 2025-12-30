@@ -1,0 +1,32 @@
+{
+  "token": "BURAYA_BOT_TOKENINIZI_GIRIN",
+  "clientId": "BURAYA_BOT_CLIENT_ID_GIRIN",
+  "guildId": "BURAYA_TEST_SUNUCU_ID_GIRIN",
+  "registerChannelId": "KAYIT_BUTONUNUN_OLACAGI_KANAL_ID",
+  "registerCategoryId": "KAYIT_KANALLARININ_ACILACAGI_KATEGORI_ID",
+  "logChannelId": "LOG_KANALI_ID",
+  "adminRoleId": "YETKILI_ROL_ID",
+  "interviewRoleId": "MULAKAT_ROL_ID",
+  "modalQuestions": [
+    {
+      "label": "İsim Soyisim",
+      "placeholder": "Adınızı ve soyadınızı girin",
+      "style": "short"
+    },
+    {
+      "label": "Yaş",
+      "placeholder": "Yaşınızı girin",
+      "style": "short"
+    },
+    {
+      "label": "FiveM Deneyimi",
+      "placeholder": "FiveM deneyiminizi anlatın",
+      "style": "paragraph"
+    },
+    {
+      "label": "Neden Sunucumuza Katılmak İstiyorsunuz?",
+      "placeholder": "Sunucumuza katılma sebebinizi belirtin",
+      "style": "paragraph"
+    }
+  ]
+}

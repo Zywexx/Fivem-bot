@@ -1,0 +1,16 @@
+{
+  "name": "fivem-discord-registration-bot",
+  "version": "1.0.0",
+  "description": "FiveM sunucuları için gelişmiş Discord kayıt botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "fs": "^0.0.1-security"
+  },
+  "keywords": ["discord", "bot", "fivem", "registration"],
+  "author": "",
+  "license": "MIT"
+}
